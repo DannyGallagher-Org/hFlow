@@ -1,0 +1,6 @@
+/Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/hFlow.dll
+/Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/hFlow.pdb
+/Users/dannygallagher/RiderProjects/hFlow/hFlow/obj/Debug/hFlow.csprojAssemblyReference.cache
+/Users/dannygallagher/RiderProjects/hFlow/hFlow/obj/Debug/hFlow.csproj.CoreCompileInputs.cache
+/Users/dannygallagher/RiderProjects/hFlow/hFlow/obj/Debug/hFlow.dll
+/Users/dannygallagher/RiderProjects/hFlow/hFlow/obj/Debug/hFlow.pdb
