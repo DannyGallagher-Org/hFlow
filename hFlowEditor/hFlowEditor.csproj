@@ -43,7 +43,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayExtenstions.cs" />
+    <Compile Include="CustomEditorStyles.cs" />
+    <Compile Include="FlowEditorDefs.cs" />
+    <Compile Include="FlowInterstitialEditor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\hFlowRuntime\hFlowRuntime.csproj">
+      <Project>{470bfe58-c30e-46b4-9ab0-d24185400f63}</Project>
+      <Name>hFlowRuntime</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

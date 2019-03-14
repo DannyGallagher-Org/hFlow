@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_hFlow.1875476758.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="hFlow" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="hFlow.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="hFlow.sln" t="IncludeFlat" />
+      <e p="hFlowEditor" t="IncludeRecursive">
+        <e p="ArrayExtenstions.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomEditorStyles.cs" t="Include" />
+        <e p="FlowEditorDefs.cs" t="Include" />
+        <e p="FlowInterstitialEditor.cs" t="Include" />
+        <e p="hFlowEditor.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="hFlowRuntime" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CustomFlowTypes" t="Include">
+          <e p="AbstractFlowPoint.cs" t="Include" />
+          <e p="Debug" t="Include">
+            <e p="FlowDebugString.cs" t="Include" />
+            <e p="FlowDebugString.cs.meta" t="Include" />
+          </e>
+          <e p="FlowAsyncListOfPoints.cs" t="Include" />
+          <e p="FlowCallUnityEvent.cs" t="Include" />
+          <e p="FlowCompleteTask.cs" t="Include" />
+          <e p="FlowEmbedInterstitial.cs" t="Include" />
+          <e p="FlowEnableDisableGameObject.cs" t="Include" />
+          <e p="FlowInstantiatePrefab.cs" t="Include" />
+          <e p="FlowInterstitialCleanUp.cs" t="Include" />
+          <e p="FlowLoadLevelFromHLevels.cs" t="Include" />
+          <e p="FlowRemoveGameObject.cs" t="Include" />
+          <e p="FlowWait.cs" t="Include" />
+        </e>
+        <e p="FlowInterstitial.cs" t="Include" />
+        <e p="FlowUtility.cs" t="Include" />
+        <e p="hFlowRuntime.csproj" t="IncludeRecursive" />
+        <e p="Interfaces" t="Include">
+          <e p="IFlowPoint.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

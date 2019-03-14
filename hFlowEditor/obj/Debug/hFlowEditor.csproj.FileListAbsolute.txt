@@ -21,3 +21,8 @@
 /Users/dannygallagher/RiderProjects/hFlow/hFlowEditor/obj/Debug/hFlowEditor.csproj.CopyComplete
 /Users/dannygallagher/RiderProjects/hFlow/hFlowEditor/obj/Debug/hFlowEditor.dll
 /Users/dannygallagher/RiderProjects/hFlow/hFlowEditor/obj/Debug/hFlowEditor.pdb
+/Users/dannygallagher/RiderProjects/hFlow/hFlowEditor/bin/Debug/hFlowRuntime.dll
+/Users/dannygallagher/RiderProjects/hFlow/hFlowEditor/bin/Debug/RSG.Promise.dll
+/Users/dannygallagher/RiderProjects/hFlow/hFlowEditor/bin/Debug/hFlowRuntime.pdb
+/Users/dannygallagher/RiderProjects/hFlow/hFlowEditor/bin/Debug/hLevelsRuntime.dll
+/Users/dannygallagher/RiderProjects/hFlow/hFlowEditor/bin/Debug/hLevelsRuntime.pdb
