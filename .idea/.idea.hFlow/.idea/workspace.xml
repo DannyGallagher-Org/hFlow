@@ -2,84 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d10860d-cb71-4344-bdc7-42142a1b72fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.hFlow/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hFlow/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.hFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hFlow/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlow.sln" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowLoadLevelFromHLevels.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/bin/Debug/UnityEditor.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/bin/Debug/UnityEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/bin/Debug/UnityEngine.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/bin/Debug/UnityEngine.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow/bin/Debug/hFlow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/bin/Debug/hFlow.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlow/bin/Debug/hFlow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/bin/Debug/hFlow.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow/hFlow.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/hFlow.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/ArrayExtenstions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/ArrayExtenstions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/CustomEditorStyles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomEditorStyles.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/FlowEditorDefs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/FlowEditorDefs.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/FlowInterstitialEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/FlowInterstitialEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/ExCSS.Unity.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/RSG.Promise.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.Cecil.Mdb.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.Cecil.Pdb.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.Cecil.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.CecilTools.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.DataContract.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.Legacy.NRefactory.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.SerializationLogic.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.UNetWeaver.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.UNetWeaver.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEditor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEditor.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEditor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEngine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEngine.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEngine.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowEditor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowEditor.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowRuntime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowRuntime.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hLevelsRuntime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hLevelsRuntime.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/hFlowEditor.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/AbstractFlowPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/AbstractFlowPoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/Debug/FlowDebugString.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/Debug/FlowDebugString.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/Debug/FlowDebugString.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowAsyncListOfPoints.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowAsyncListOfPoints.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCallUnityEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowCallUnityEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCompleteTask.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowEmbedInterstitial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEmbedInterstitial.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowEnableDisableGameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEnableDisableGameObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowInstantiatePrefab.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowInstantiatePrefab.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowInterstitialCleanUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowInterstitialCleanUp.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowRemoveGameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowRemoveGameObject.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowWait.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowWait.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/FlowInterstitial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/FlowInterstitial.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/FlowUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/FlowUtility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/Interfaces/IFlowPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/Interfaces/IFlowPoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/RSG.Promise.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/UnityEngine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/UnityEngine.dll.mdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/UnityEngine.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hFlowRuntime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hFlowRuntime.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hLevelsRuntime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hLevelsRuntime.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/hFlowRuntime.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.CopyComplete" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.pdb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -255,10 +188,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="333" />
-    <option name="y" value="53" />
-    <option name="width" value="1301" />
-    <option name="height" value="898" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -326,7 +257,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowEmbedInterstitial.cs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DLL/UnityEngine.dll" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
@@ -387,7 +318,7 @@
       <updated>1552499164410</updated>
       <workItem from="1552499165680" duration="190000" />
       <workItem from="1552499470700" duration="4135000" />
-      <workItem from="1552849050850" duration="4135000" />
+      <workItem from="1552849050850" duration="4721000" />
     </task>
     <task id="LOCAL-00001" summary="This is from the initial commit of hFlow">
       <created>1552500327428</created>
@@ -407,7 +338,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8460000" />
+    <option name="totallyTimeSpent" value="9046000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

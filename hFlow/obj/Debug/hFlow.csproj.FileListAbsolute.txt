@@ -16,9 +16,5 @@
 /Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/Unity.CecilTools.dll
 /Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/Unity.Cecil.Pdb.dll
 /Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/Unity.Cecil.Mdb.dll
-/Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/UnityEditor.dll.mdb
-/Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/UnityEditor.xml
-/Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/UnityEngine.dll.mdb
-/Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/UnityEngine.xml
 /Users/dannygallagher/RiderProjects/hFlow/hFlow/bin/Debug/Unity.UNetWeaver.dll.mdb
 /Users/dannygallagher/RiderProjects/hFlow/hFlow/obj/Debug/hFlow.csproj.CopyComplete
