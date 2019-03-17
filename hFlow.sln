@@ -1,10 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hFlowRuntime", "hFlowRuntime\hFlowRuntime.csproj", "{470BFE58-C30E-46B4-9AB0-D24185400F63}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hFlow", "hFlow\hFlow.csproj", "{B8350FB1-E4A0-4EA7-A12B-A21F5148DE7F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hFlowEditor", "hFlowEditor\hFlowEditor.csproj", "{564CF2D7-9776-4549-A773-FAB0FF87D51D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,20 +8,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{470BFE58-C30E-46B4-9AB0-D24185400F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{470BFE58-C30E-46B4-9AB0-D24185400F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{470BFE58-C30E-46B4-9AB0-D24185400F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{470BFE58-C30E-46B4-9AB0-D24185400F63}.Release|Any CPU.Build.0 = Release|Any CPU
-		{470BFE58-C30E-46B4-9AB0-D24185400F63}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{B8350FB1-E4A0-4EA7-A12B-A21F5148DE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B8350FB1-E4A0-4EA7-A12B-A21F5148DE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8350FB1-E4A0-4EA7-A12B-A21F5148DE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8350FB1-E4A0-4EA7-A12B-A21F5148DE7F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B8350FB1-E4A0-4EA7-A12B-A21F5148DE7F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{564CF2D7-9776-4549-A773-FAB0FF87D51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{564CF2D7-9776-4549-A773-FAB0FF87D51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{564CF2D7-9776-4549-A773-FAB0FF87D51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{564CF2D7-9776-4549-A773-FAB0FF87D51D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{564CF2D7-9776-4549-A773-FAB0FF87D51D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal

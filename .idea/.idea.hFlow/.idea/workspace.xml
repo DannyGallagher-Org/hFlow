@@ -2,30 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d10860d-cb71-4344-bdc7-42142a1b72fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hFlowEditor/ArrayExtenstions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hFlowEditor/CustomEditorStyles.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hFlowEditor/FlowEditorDefs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hFlowEditor/FlowInterstitialEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowLoadLevelFromHLevels.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hFlow/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hFlow/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.hFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.hFlow/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow.sln" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowLoadLevelFromHLevels.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow/bin/Debug/hFlow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/bin/Debug/hFlow.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/bin/Debug/hFlow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/bin/Debug/hFlow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/hFlow.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/hFlow.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.dll" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowEditor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowEditor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowEditor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowEditor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/hFlowEditor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowEditor/hFlowEditor.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hFlowRuntime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hFlowRuntime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hFlowRuntime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hFlowRuntime.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/hFlowRuntime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowRuntime/hFlowRuntime.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/obj/Debug/hFlow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/ArrayExtenstions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/ArrayExtenstions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/CustomEditorStyles.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomEditorStyles.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/FlowEditorDefs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/FlowEditorDefs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/FlowInterstitialEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/FlowInterstitialEditor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/ExCSS.Unity.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/RSG.Promise.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.Cecil.Mdb.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.Cecil.Pdb.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.Cecil.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.CecilTools.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.DataContract.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.Legacy.NRefactory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.SerializationLogic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.UNetWeaver.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/Unity.UNetWeaver.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEditor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEditor.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEditor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEngine.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/UnityEngine.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowEditor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowEditor.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowRuntime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hFlowRuntime.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hLevelsRuntime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/bin/Debug/hLevelsRuntime.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/hFlowEditor.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowEditor/obj/Debug/hFlowEditor.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/AbstractFlowPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/AbstractFlowPoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/Debug/FlowDebugString.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/Debug/FlowDebugString.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/Debug/FlowDebugString.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowAsyncListOfPoints.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowAsyncListOfPoints.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCallUnityEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowCallUnityEvent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCompleteTask.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowEmbedInterstitial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEmbedInterstitial.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowEnableDisableGameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEnableDisableGameObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowInstantiatePrefab.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowInstantiatePrefab.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowInterstitialCleanUp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowInterstitialCleanUp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowRemoveGameObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowRemoveGameObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowWait.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowWait.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/FlowInterstitial.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/FlowInterstitial.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/FlowUtility.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/FlowUtility.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/Interfaces/IFlowPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hFlow/Interfaces/IFlowPoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/RSG.Promise.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/UnityEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/UnityEngine.dll.mdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/UnityEngine.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hFlowRuntime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hFlowRuntime.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hLevelsRuntime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/bin/Debug/hLevelsRuntime.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/hFlowRuntime.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hFlowRuntime/obj/Debug/hFlowRuntime.pdb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,101 +88,143 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowLoadLevelFromHLevels.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="7" column="41" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="41" />
-                  <folding>
-                    <marker date="1552504191769" expanded="true" signature="6:65" ph="..." />
-                    <marker date="1552504191769" expanded="true" signature="105:775" ph="{...}" />
-                    <marker date="1552504191769" expanded="true" signature="169:773" ph="{...}" />
-                    <marker date="1552504191769" expanded="true" signature="250:335" ph="{...}" />
-                    <marker date="1552504191769" expanded="true" signature="373:767" ph="{...}" />
-                    <marker date="1552504191769" expanded="true" signature="399:546" ph="{...}" />
-                    <marker date="1552504191769" expanded="true" signature="578:757" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/hFlowEditor/FlowInterstitialEditor.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
-                  <folding>
-                    <marker date="1552504448498" expanded="true" signature="6:215" ph="..." />
-                    <marker date="1552504448498" expanded="true" signature="238:7894" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="284:563" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="658:7892" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="841:1210" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="968:1149" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="1257:2411" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="1309:1425" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="2044:2198" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="2449:2762" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="2799:5269" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="2940:5056" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="5306:5645" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="5683:7886" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="5779:7876" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="5832:6026" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="6462:6661" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="6722:7047" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="6830:7029" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="7068:7145" ph="{...}" />
-                    <marker date="1552504448498" expanded="true" signature="7528:7787" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCallUnityEvent.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-                  <folding>
-                    <marker date="1552499999376" expanded="false" signature="6:100" ph="..." />
-                    <marker date="1552499999376" expanded="true" signature="140:849" ph="{...}" />
-                    <marker date="1552499999376" expanded="true" signature="210:847" ph="{...}" />
-                    <marker date="1552499999376" expanded="true" signature="288:376" ph="{...}" />
-                    <marker date="1552499999376" expanded="true" signature="414:841" ph="{...}" />
-                    <marker date="1552499999376" expanded="true" signature="440:614" ph="{...}" />
-                    <marker date="1552499999376" expanded="true" signature="646:831" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/Debug/FlowDebugString.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding>
+                <marker date="1552849412845" expanded="true" signature="6:79" ph="..." />
+                <marker date="1552849412845" expanded="true" signature="118:810" ph="{...}" />
+                <marker date="1552849412845" expanded="true" signature="185:808" ph="{...}" />
+                <marker date="1552849412845" expanded="true" signature="293:438" ph="{...}" />
+                <marker date="1552849412845" expanded="true" signature="476:581" ph="{...}" />
+                <marker date="1552849412845" expanded="true" signature="651:802" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hFlow/FlowInterstitialEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+              <folding>
+                <marker date="1552855771364" expanded="false" signature="6:193" ph="..." />
+                <marker date="1552855771364" expanded="true" signature="210:8776" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="256:501" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="596:8774" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="779:1148" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="906:1087" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="1195:2572" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="1247:1363" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="2012:2166" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="2611:2952" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="2991:3472" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="3078:3462" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="3510:3840" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="3877:6151" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="4018:5938" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="6188:6527" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="6565:8768" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="6661:8758" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="6714:6908" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="7344:7543" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="7604:7929" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="7712:7911" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="7950:8027" ph="{...}" />
+                <marker date="1552855771364" expanded="true" signature="8410:8669" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hFlow/FlowInterstitial.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <marker date="1552851791518" expanded="true" signature="35:1008" ph="{...}" />
+                <marker date="1552851791518" expanded="true" signature="87:1006" ph="{...}" />
+                <marker date="1552851791518" expanded="true" signature="326:401" ph="{...}" />
+                <marker date="1552851791518" expanded="true" signature="491:615" ph="{...}" />
+                <marker date="1552851791518" expanded="true" signature="646:1000" ph="{...}" />
+                <marker date="1552851791518" expanded="true" signature="866:988" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEmbedInterstitial.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+              <folding>
+                <marker date="1552851700914" expanded="true" signature="6:53" ph="..." />
+                <marker date="1552851700914" expanded="true" signature="86:964" ph="{...}" />
+                <marker date="1552851700914" expanded="true" signature="159:962" ph="{...}" />
+                <marker date="1552851700914" expanded="true" signature="254:358" ph="{...}" />
+                <marker date="1552851700914" expanded="true" signature="396:956" ph="{...}" />
+                <marker date="1552851700914" expanded="true" signature="669:908" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hFlow/FlowUtility.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding>
+                <marker date="1552851778977" expanded="false" signature="6:184" ph="..." />
+                <marker date="1552851778977" expanded="true" signature="201:2542" ph="{...}" />
+                <marker date="1552851778977" expanded="true" signature="239:2540" ph="{...}" />
+                <marker date="1552851778977" expanded="true" signature="361:1439" ph="{...}" />
+                <marker date="1552851778977" expanded="true" signature="618:878" ph="{...}" />
+                <marker date="1552851778977" expanded="true" signature="765:864" ph="{...}" />
+                <marker date="1552851778977" expanded="true" signature="1041:1427" ph="{...}" />
+                <marker date="1552851778977" expanded="true" signature="1574:2534" ph="{...}" />
+                <marker date="1552851778977" expanded="true" signature="1954:2340" ph="{...}" />
+                <marker date="1552851778977" expanded="true" signature="2372:2522" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cleanon</find>
+      <find>PlayOnAwake</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowInstantiatePrefab.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/Debug/FlowDebugString.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowRemoveGameObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCallUnityEvent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/AbstractFlowPoint.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowLoadLevelFromHLevels.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowRuntime/FlowUtility.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowEditor/FlowInterstitialEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowRuntime/FlowInterstitial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowEditor/FlowEditorDefs.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowEditor/ArrayExtenstions.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/hFlowEditor/CustomEditorStyles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowWait.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowRemoveGameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowCallUnityEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowInterstitialCleanUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/AbstractFlowPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowAsyncListOfPoints.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEmbedInterstitial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowInstantiatePrefab.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../hLevels/hLevels/AdditiveScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/FlowUtility.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEnableDisableGameObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/FlowInterstitialEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/FlowInterstitial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/FlowEditorDefs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/ArrayExtenstions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/Debug/FlowDebugString.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/hFlow/CustomEditorStyles.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -150,14 +246,19 @@
         <option value="$PROJECT_DIR$/hFlowEditor/ArrayExtenstions.cs" />
         <option value="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowLoadLevelFromHLevels.cs" />
         <option value="$PROJECT_DIR$/hFlowEditor/FlowInterstitialEditor.cs" />
+        <option value="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowLoadLevelFromHLevels.cs" />
+        <option value="$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEmbedInterstitial.cs" />
+        <option value="$PROJECT_DIR$/hFlow/FlowUtility.cs" />
+        <option value="$PROJECT_DIR$/hFlow/FlowInterstitial.cs" />
+        <option value="$PROJECT_DIR$/hFlow/FlowInterstitialEditor.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-72" />
-    <option name="y" value="-1046" />
-    <option name="width" value="1565" />
-    <option name="height" value="935" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="333" />
+    <option name="y" value="53" />
+    <option name="width" value="1301" />
+    <option name="height" value="898" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -165,7 +266,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer">
         <subPane>
           <expand>
@@ -187,47 +287,49 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="hFlowEditor" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="hFlowRuntime" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="hFlowRuntime" type="24d0babc:SolutionExplorerModelNode" />
               <item name="References" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="hFlowRuntime" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
               <item name="References" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Assemblies" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="hFlowRuntime" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
               <item name="CustomFlowTypes" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="hFlow" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Interfaces" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hLevels/hLevelsRuntime/bin/Debug/hLevelsRuntime.dll" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowEmbedInterstitial.cs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,6 +387,7 @@
       <updated>1552499164410</updated>
       <workItem from="1552499165680" duration="190000" />
       <workItem from="1552499470700" duration="4135000" />
+      <workItem from="1552849050850" duration="4135000" />
     </task>
     <task id="LOCAL-00001" summary="This is from the initial commit of hFlow">
       <created>1552500327428</created>
@@ -304,7 +407,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4325000" />
+    <option name="totallyTimeSpent" value="8460000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -316,15 +419,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-72" y="-1046" width="1565" height="935" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13525936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1959707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.24436536" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Change Signature" sideWeight="0.501221" side_tool="true" visible="true" weight="0.24387754" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -334,11 +437,13 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32957748" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4993895" weight="0.32857144" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="14" sideWeight="0.498779" visible="true" weight="0.24387754" />
+      <window_info anchor="right" id="PinNote" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -367,289 +472,274 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/MonoBehaviour1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowEditor/MonoBehaviour1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlow/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowEditor/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlow/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/MonoBehaviour1.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCallGameEvent.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowEnableDisableControl.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowFadeBlack.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowFadeClear.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowRearrangeFutureGameobject.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowRearrangeGameObject.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowSetBoolData.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlowRuntime/_main.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomEditorStyles.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MonoBehaviour1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/FlowInterstitial.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <marker date="1552499748487" expanded="true" signature="42:845" ph="{...}" />
-            <marker date="1552499748487" expanded="true" signature="94:843" ph="{...}" />
-            <marker date="1552499748487" expanded="true" signature="290:365" ph="{...}" />
-            <marker date="1552499748487" expanded="true" signature="455:579" ph="{...}" />
-            <marker date="1552499748487" expanded="true" signature="610:837" ph="{...}" />
-            <marker date="1552499748487" expanded="true" signature="703:825" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/Debug/FlowDebugString.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding>
-            <marker date="1552499999414" expanded="true" signature="6:86" ph="..." />
-            <marker date="1552499999414" expanded="true" signature="132:824" ph="{...}" />
-            <marker date="1552499999414" expanded="true" signature="199:822" ph="{...}" />
-            <marker date="1552499999414" expanded="true" signature="307:452" ph="{...}" />
-            <marker date="1552499999414" expanded="true" signature="490:595" ph="{...}" />
-            <marker date="1552499999414" expanded="true" signature="665:816" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/FlowUtility.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding>
-            <marker date="1552499999417" expanded="true" signature="6:198" ph="..." />
-            <marker date="1552499999417" expanded="true" signature="222:2235" ph="{...}" />
-            <marker date="1552499999417" expanded="true" signature="260:2233" ph="{...}" />
-            <marker date="1552499999417" expanded="true" signature="354:1132" ph="{...}" />
-            <marker date="1552499999417" expanded="true" signature="734:1120" ph="{...}" />
-            <marker date="1552499999417" expanded="true" signature="1267:2227" ph="{...}" />
-            <marker date="1552499999417" expanded="true" signature="1647:2033" ph="{...}" />
-            <marker date="1552499999417" expanded="true" signature="2065:2215" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCallGameEvent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowEnableDisableControl.cs">
+    <entry file="file://$PROJECT_DIR$/hFlow/FlowEditorDefs.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowFadeBlack.cs">
+    <entry file="file://$PROJECT_DIR$/hFlow/ArrayExtenstions.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowFadeClear.cs">
+    <entry file="file://$PROJECT_DIR$/../UnityTesting/UnityTesting/Assets/Code/FlowLoadLevelFromHLevels.cs" />
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowLoadLevelFromHLevels.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state relative-caret-position="150">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/AbstractFlowPoint.cs">
+    <entry file="file://$PROJECT_DIR$/../hLevels/hLevels/AdditiveScene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/AbstractFlowPoint.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
           <folding>
-            <marker date="1552499999413" expanded="true" signature="58:161" ph="{...}" />
-            <marker date="1552499999413" expanded="true" signature="120:159" ph="{...}" />
+            <marker date="1552849412842" expanded="true" signature="51:154" ph="{...}" />
+            <marker date="1552849412842" expanded="true" signature="113:152" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowRearrangeFutureGameobject.cs">
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowAsyncListOfPoints.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowRearrangeGameObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowInstantiatePrefab.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="120">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
           <folding>
-            <marker date="1552500053891" expanded="true" signature="6:100" ph="..." />
-            <marker date="1552500053891" expanded="true" signature="140:1821" ph="{...}" />
-            <marker date="1552500053891" expanded="true" signature="213:1819" ph="{...}" />
-            <marker date="1552500053891" expanded="true" signature="471:918" ph="{...}" />
-            <marker date="1552500053891" expanded="true" signature="956:1473" ph="{...}" />
-            <marker date="1552500053891" expanded="true" signature="982:1260" ph="{...}" />
-            <marker date="1552500053891" expanded="true" signature="1292:1463" ph="{...}" />
-            <marker date="1552500053891" expanded="true" signature="1537:1726" ph="{...}" />
-            <marker date="1552500053891" expanded="true" signature="1760:1813" ph="{...}" />
+            <marker date="1552849412848" expanded="false" signature="6:72" ph="..." />
+            <marker date="1552849412848" expanded="true" signature="105:1154" ph="{...}" />
+            <marker date="1552849412848" expanded="true" signature="178:1152" ph="{...}" />
+            <marker date="1552849412848" expanded="true" signature="273:531" ph="{...}" />
+            <marker date="1552849412848" expanded="true" signature="569:1146" ph="{...}" />
+            <marker date="1552849412848" expanded="true" signature="859:1098" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowSetBoolData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowRemoveGameObject.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <marker date="1552500122523" expanded="false" signature="6:60" ph="..." />
-            <marker date="1552500122523" expanded="true" signature="100:553" ph="{...}" />
-            <marker date="1552500122523" expanded="true" signature="172:551" ph="{...}" />
-            <marker date="1552500122523" expanded="true" signature="255:380" ph="{...}" />
-            <marker date="1552500122523" expanded="true" signature="418:545" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/_main.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowEditor/CustomEditorStyles.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding>
-            <marker date="1552503690203" expanded="true" signature="6:37" ph="..." />
-            <marker date="1552503690203" expanded="true" signature="60:1052" ph="{...}" />
-            <marker date="1552503690203" expanded="true" signature="105:1050" ph="{...}" />
-            <marker date="1552503690203" expanded="true" signature="286:452" ph="{...}" />
-            <marker date="1552503690203" expanded="true" signature="530:805" ph="{...}" />
-            <marker date="1552503690203" expanded="true" signature="721:795" ph="{...}" />
-            <marker date="1552503690203" expanded="true" signature="881:1043" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowEditor/FlowEditorDefs.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <marker date="1552503542528" expanded="true" signature="41:475" ph="{...}" />
-            <marker date="1552503542528" expanded="true" signature="82:473" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowEditor/ArrayExtenstions.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <marker date="1552503737151" expanded="true" signature="36:1158" ph="{...}" />
-            <marker date="1552503737151" expanded="true" signature="78:1156" ph="{...}" />
-            <marker date="1552503737151" expanded="true" signature="162:303" ph="{...}" />
-            <marker date="1552503737151" expanded="true" signature="370:678" ph="{...}" />
-            <marker date="1552503737151" expanded="true" signature="750:1150" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../UnityTesting/UnityTesting/Assets/Code/FlowLoadLevelFromHLevels.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowLoadLevelFromHLevels.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <marker date="1552504191769" expanded="true" signature="6:65" ph="..." />
-            <marker date="1552504191769" expanded="true" signature="105:775" ph="{...}" />
-            <marker date="1552504191769" expanded="true" signature="169:773" ph="{...}" />
-            <marker date="1552504191769" expanded="true" signature="250:335" ph="{...}" />
-            <marker date="1552504191769" expanded="true" signature="373:767" ph="{...}" />
-            <marker date="1552504191769" expanded="true" signature="399:546" ph="{...}" />
-            <marker date="1552504191769" expanded="true" signature="578:757" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowRuntime/CustomFlowTypes/FlowCallUnityEvent.cs">
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowCallUnityEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
           <folding>
-            <marker date="1552499999376" expanded="false" signature="6:100" ph="..." />
-            <marker date="1552499999376" expanded="true" signature="140:849" ph="{...}" />
-            <marker date="1552499999376" expanded="true" signature="210:847" ph="{...}" />
-            <marker date="1552499999376" expanded="true" signature="288:376" ph="{...}" />
-            <marker date="1552499999376" expanded="true" signature="414:841" ph="{...}" />
-            <marker date="1552499999376" expanded="true" signature="440:614" ph="{...}" />
-            <marker date="1552499999376" expanded="true" signature="646:831" ph="{...}" />
+            <marker date="1552849412850" expanded="false" signature="6:93" ph="..." />
+            <marker date="1552849412850" expanded="true" signature="126:835" ph="{...}" />
+            <marker date="1552849412850" expanded="true" signature="196:833" ph="{...}" />
+            <marker date="1552849412850" expanded="true" signature="274:362" ph="{...}" />
+            <marker date="1552849412850" expanded="true" signature="400:827" ph="{...}" />
+            <marker date="1552849412850" expanded="true" signature="426:600" ph="{...}" />
+            <marker date="1552849412850" expanded="true" signature="632:817" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hFlowEditor/FlowInterstitialEditor.cs">
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowCompleteTask.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowInstantiatePrefab.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
-            <marker date="1552504448498" expanded="true" signature="6:215" ph="..." />
-            <marker date="1552504448498" expanded="true" signature="238:7894" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="284:563" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="658:7892" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="841:1210" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="968:1149" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="1257:2411" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="1309:1425" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="2044:2198" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="2449:2762" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="2799:5269" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="2940:5056" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="5306:5645" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="5683:7886" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="5779:7876" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="5832:6026" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="6462:6661" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="6722:7047" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="6830:7029" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="7068:7145" ph="{...}" />
-            <marker date="1552504448498" expanded="true" signature="7528:7787" ph="{...}" />
+            <marker date="1552849412860" expanded="true" signature="6:93" ph="..." />
+            <marker date="1552849412860" expanded="true" signature="126:1807" ph="{...}" />
+            <marker date="1552849412860" expanded="true" signature="199:1805" ph="{...}" />
+            <marker date="1552849412860" expanded="true" signature="457:904" ph="{...}" />
+            <marker date="1552849412860" expanded="true" signature="942:1459" ph="{...}" />
+            <marker date="1552849412860" expanded="true" signature="968:1246" ph="{...}" />
+            <marker date="1552849412860" expanded="true" signature="1278:1449" ph="{...}" />
+            <marker date="1552849412860" expanded="true" signature="1523:1712" ph="{...}" />
+            <marker date="1552849412860" expanded="true" signature="1746:1799" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEnableDisableGameObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1552849412857" expanded="false" signature="6:67" ph="..." />
+            <marker date="1552849412857" expanded="true" signature="100:967" ph="{...}" />
+            <marker date="1552849412857" expanded="true" signature="179:965" ph="{...}" />
+            <marker date="1552849412857" expanded="true" signature="290:391" ph="{...}" />
+            <marker date="1552849412857" expanded="true" signature="429:959" ph="{...}" />
+            <marker date="1552849412857" expanded="true" signature="455:666" ph="{...}" />
+            <marker date="1552849412857" expanded="true" signature="698:949" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowInterstitialCleanUp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1552849412862" expanded="false" signature="6:53" ph="..." />
+            <marker date="1552849412862" expanded="true" signature="86:598" ph="{...}" />
+            <marker date="1552849412862" expanded="true" signature="161:596" ph="{...}" />
+            <marker date="1552849412862" expanded="true" signature="252:452" ph="{...}" />
+            <marker date="1552849412862" expanded="true" signature="263:403" ph="/* if(!MainParentObject) ... */" />
+            <marker date="1552849412862" expanded="true" signature="490:590" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowRemoveGameObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+          <folding>
+            <marker date="1552849412864" expanded="false" signature="6:53" ph="..." />
+            <marker date="1552849412864" expanded="true" signature="86:539" ph="{...}" />
+            <marker date="1552849412864" expanded="true" signature="158:537" ph="{...}" />
+            <marker date="1552849412864" expanded="true" signature="241:366" ph="{...}" />
+            <marker date="1552849412864" expanded="true" signature="404:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowWait.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1552849412867" expanded="false" signature="6:79" ph="..." />
+            <marker date="1552849412867" expanded="true" signature="112:728" ph="{...}" />
+            <marker date="1552849412867" expanded="true" signature="172:726" ph="{...}" />
+            <marker date="1552849412867" expanded="true" signature="244:388" ph="{...}" />
+            <marker date="1552849412867" expanded="true" signature="426:549" ph="{...}" />
+            <marker date="1552849412867" expanded="true" signature="618:720" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/Debug/FlowDebugString.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding>
+            <marker date="1552849412845" expanded="true" signature="6:79" ph="..." />
+            <marker date="1552849412845" expanded="true" signature="118:810" ph="{...}" />
+            <marker date="1552849412845" expanded="true" signature="185:808" ph="{...}" />
+            <marker date="1552849412845" expanded="true" signature="293:438" ph="{...}" />
+            <marker date="1552849412845" expanded="true" signature="476:581" ph="{...}" />
+            <marker date="1552849412845" expanded="true" signature="651:802" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/CustomFlowTypes/FlowEmbedInterstitial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="81" selection-start-line="12" selection-start-column="81" selection-end-line="12" selection-end-column="81" />
+          <folding>
+            <marker date="1552851700914" expanded="true" signature="6:53" ph="..." />
+            <marker date="1552851700914" expanded="true" signature="86:964" ph="{...}" />
+            <marker date="1552851700914" expanded="true" signature="159:962" ph="{...}" />
+            <marker date="1552851700914" expanded="true" signature="254:358" ph="{...}" />
+            <marker date="1552851700914" expanded="true" signature="396:956" ph="{...}" />
+            <marker date="1552851700914" expanded="true" signature="669:908" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/FlowUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <marker date="1552851778977" expanded="false" signature="6:184" ph="..." />
+            <marker date="1552851778977" expanded="true" signature="201:2542" ph="{...}" />
+            <marker date="1552851778977" expanded="true" signature="239:2540" ph="{...}" />
+            <marker date="1552851778977" expanded="true" signature="361:1439" ph="{...}" />
+            <marker date="1552851778977" expanded="true" signature="618:878" ph="{...}" />
+            <marker date="1552851778977" expanded="true" signature="765:864" ph="{...}" />
+            <marker date="1552851778977" expanded="true" signature="1041:1427" ph="{...}" />
+            <marker date="1552851778977" expanded="true" signature="1574:2534" ph="{...}" />
+            <marker date="1552851778977" expanded="true" signature="1954:2340" ph="{...}" />
+            <marker date="1552851778977" expanded="true" signature="2372:2522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/FlowInterstitial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <marker date="1552851791518" expanded="true" signature="35:1008" ph="{...}" />
+            <marker date="1552851791518" expanded="true" signature="87:1006" ph="{...}" />
+            <marker date="1552851791518" expanded="true" signature="326:401" ph="{...}" />
+            <marker date="1552851791518" expanded="true" signature="491:615" ph="{...}" />
+            <marker date="1552851791518" expanded="true" signature="646:1000" ph="{...}" />
+            <marker date="1552851791518" expanded="true" signature="866:988" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hFlow/FlowInterstitialEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="92" column="12" lean-forward="true" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
+          <folding>
+            <marker date="1552855771364" expanded="false" signature="6:193" ph="..." />
+            <marker date="1552855771364" expanded="true" signature="210:8776" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="256:501" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="596:8774" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="779:1148" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="906:1087" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="1195:2572" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="1247:1363" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="2012:2166" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="2611:2952" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="2991:3472" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="3078:3462" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="3510:3840" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="3877:6151" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="4018:5938" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="6188:6527" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="6565:8768" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="6661:8758" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="6714:6908" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="7344:7543" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="7604:7929" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="7712:7911" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="7950:8027" ph="{...}" />
+            <marker date="1552855771364" expanded="true" signature="8410:8669" ph="{...}" />
           </folding>
         </state>
       </provider>
