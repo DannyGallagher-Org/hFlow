@@ -1,7 +1,7 @@
 {
-  "name": "com.houseofwire.hFlow",
+  "name": "com.houseofwire.hflow",
   "displayName": "hFlow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2018.1",
   "description": "House of Wire Control Inversion",
   "keywords": [ "core", "flow", "houseofwire" ],
